@@ -53,7 +53,7 @@ Some projects are tiny utilities.
 Some are experiments.
 Some are weird ideas that happened to work. 🧪
 
-Hopefully, at least a few are useful enough for someone else to **steal, modify, break, and improve.** 🔧
+Hopefully, at least a few are useful enough for someone else to **modify, break, and improve.** 🔧
 
 ## 🐇 My current rabbit holes
 
